@@ -1,0 +1,8 @@
+#should vehicle material use a whitelist? (default: false)
+whitelist=false
+#amount of blocks 1 Airship Balloon can lift (default: 2)
+balloon=2
+#amount of blocks 1 Water Float can lift (default: 20)
+float=20
+#amount of blocks 1 wheel can lift (default: 10)
+wheel=10

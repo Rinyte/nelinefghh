@@ -1,0 +1,67 @@
+
+#Sunken Treasure Settings
+["sunken treasure"]
+	#Standard Drop Rate
+	#Range: 0 ~ 1000
+	sunkenTreasureRarityNormal = 60
+	#Higher Probability
+	#Range: 0 ~ 1000
+	sunkenTreasureRarityHigh = 45
+	#Lower Probability
+	#Range: 0 ~ 1000
+	sunkenTreasureRarityLow = 70
+	#Allow Stacking
+	sunkenTreasureAllowStacking = false
+	#Sunken Treasure Enabled
+	sunkenTreasureEnabled = true
+
+#Ancient Treasure Settings
+["ancient treasure"]
+	#Ancient Treasure Enabled
+	ancientTreasureEnabled = true
+	#Lower Probability
+	#Range: 0 ~ 1000
+	ancientTreasureRarityLow = 80
+	#Standard Rarity
+	#Range: 0 ~ 1000
+	ancientTreasureRarityNormal = 65
+	#Higher Probability
+	#Range: 0 ~ 1000
+	ancientTreasureRarityHigh = 60
+	#Allow Stacking
+	ancientTreasureAllowStacking = false
+
+#Bird's Nest Settings
+[nests]
+	#Standard Rarity
+	#Range: 0 ~ 1000
+	nestRarityNormal = 50
+	#Lower Probability
+	#Range: 0 ~ 1000
+	nestRarityLow = 55
+	#Allow Decay Drops
+	nestAllowDecayDrops = true
+	#Nests Enabled
+	nestEnabled = true
+	#Higher Probability
+	#Range: 0 ~ 1000
+	nestRarityHigh = 45
+	#Allow Stacking
+	nestAllowStacking = false
+
+#Bandit Treasure Pouch Settings
+["bandit pouches"]
+	#Bandit Pouches Enabled
+	banditPouchEnabled = true
+	#Standard Rarity
+	#Range: 0 ~ 1000
+	banditPouchRarityNormal = 50
+	#Lower Probability
+	#Range: 0 ~ 1000
+	banditPouchRarityLow = 65
+	#Allow Stacking
+	banditPouchAllowStacking = false
+	#Higher Probability
+	#Range: 0 ~ 1000
+	banditPouchRarityHigh = 45
+

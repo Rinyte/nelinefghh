@@ -1,0 +1,11 @@
+
+[General]
+	#Visibility when on fire while using a fire resistant fruit 
+	#Default: 20
+	#Range: 0 ~ 100
+	"Fire Visibility" = 25
+
+	[General."Cooldown Visuals"]
+		Color = true
+		Text = true
+

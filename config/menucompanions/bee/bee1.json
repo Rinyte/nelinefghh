@@ -1,0 +1,23 @@
+{
+  "id": "minecraft:bee",
+  "weight": 8,
+  "display": {
+    "scale": 1.6,
+    "xoffset": 0,
+    "yoffset": 0,
+    "nameplate": false,
+    "particles": true,
+    "volume": 0.5,
+    "side": "LEFT"
+  },
+  "data": {
+    "nbt": "{}",
+    "tick": true,
+    "onground": false,
+    "inwater": false,
+    "aggressive": false,
+    "inlove": false,
+    "walk": false,
+    "crouch": false
+  }
+}

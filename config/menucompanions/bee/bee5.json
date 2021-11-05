@@ -1,0 +1,23 @@
+{
+  "id": "minecraft:bee",
+  "weight": 2,
+  "display": {
+    "scale": 1.6,
+    "xoffset": 0,
+    "yoffset": 0,
+    "nameplate": false,
+    "particles": true,
+    "volume": 0.5,
+    "side": "LEFT"
+  },
+  "data": {
+    "nbt": "{HasNectar: 1, Age: -24000}",
+    "tick": true,
+    "onground": false,
+    "inwater": false,
+    "aggressive": false,
+    "inlove": false,
+    "walk": false,
+    "crouch": false
+  }
+}
